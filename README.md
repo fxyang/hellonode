@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-VSCODE Debug Guide
----
-
 相关文章：[Visual Studio Code 前端调试不完全指南](http://jerryzou.com/posts/vscode-debug-guide/)
 
 ### 安装依赖
@@ -36,5 +32,3 @@ yarn
 3. 在 `server/app.js` 中加断点
 4. 访问 `http://localhost:8092/`
 =======
-# hellonode
->>>>>>> e7d72b977300a039ad99b01bc6e95edc40764c7c
