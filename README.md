@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 VSCODE Debug Guide
 ---
 
@@ -34,3 +35,6 @@ yarn
 2. 启动调试配置：“附加于已启动的 Node 服务器（inspect模式）”
 3. 在 `server/app.js` 中加断点
 4. 访问 `http://localhost:8092/`
+=======
+# hellonode
+>>>>>>> e7d72b977300a039ad99b01bc6e95edc40764c7c
