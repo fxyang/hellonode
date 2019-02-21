@@ -112,3 +112,4 @@ var app = express();
 app.use(express.static('public'));
 //监听3000端口
 app.listen(3000);
+// end
